@@ -1,0 +1,29 @@
+body {
+    margin: 0 auto;
+}
+
+
+header {
+    border: solid 2px;
+    margin: 3px;
+    text-align: center;
+}
+
+aside {
+    border: solid 2px;
+    float: left;
+        
+}
+
+article {
+    border: solid 2px;
+    margin: 3px;
+        
+}
+
+footer {
+    border: solid 2px;
+    margin: 3px;
+}
+
+
