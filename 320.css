@@ -17,6 +17,7 @@ aside {
 
 article {
     border: solid 2px;
+    float: left;
     margin: 3px;
         
 }
